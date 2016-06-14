@@ -5,4 +5,4 @@ _____________________________
 
 **THIS IS EXPERIMENTAL! If I were you, I wouldn't touch it :)
 
-<img src="http://i.imgur.com/mlDNmuy.jpg">
+<img src="http://i.imgur.com/fScmDgb.jpg">
